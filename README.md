@@ -6,6 +6,10 @@ A Flutter application that helps with shopping and grocery management. Features 
 * Object detection for food
 * Recipes list
 
+## Demo
+https://devpost.com/software/ifridge
+Original project started at Hackthe6ix
+
 ## Feature Showcase
 ### Grocery list
 Users can edit their groceries list to contain the items in their fridge/pantry. Each item includes name, food category, quantity and expiry date. Expiry date is defulted to the recommended date of that food category but can be specified. Phone's camera can also be used to quickly add item(s) to the list.
